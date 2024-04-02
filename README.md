@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an application to convert bank staements in .PDF format to ny own layout in Excel.
+- 🔭 I’m currently working on an application to convert bank statements in .PDF format to ny own layout in Excel.
 - 🌱 I’m currently learning C# and some third party .PDF text-extraction and OCR tools.
 - 👯 I’m looking to collaborate on the testing of my application.
 - ⚡ Fun fact: I have attended 9 different colleges.
